@@ -1,18 +1,4 @@
-.forma{
-    width: 200px;
-    height: 200 px;
-    background-color: rgb(245, 232, 114);
-}
-.forma__cubo{
-    width: 200px;
-    height: 200px;
-    background-color: rgb(233, 110, 10);
-}
-.forma__cubo--verde{
-    width: 200px;
-    height: 200px;
-    background-color: brown;
-}
+
 .forma__cubo{
     background-color: blueviolet;
 }
